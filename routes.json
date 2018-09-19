@@ -1,0 +1,300 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJrUza-WOrNTERtIjF_gpAE6E",
+      "types": ["political", "sublocality", "sublocality_level_1"]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJs9IFIXCrNTERlaie4ZnC20w",
+      "types": ["route"]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 21.0233744,
+          "lng": 105.8343523
+        },
+        "southwest": {
+          "lat": 21.0142161,
+          "lng": 105.8107787
+        }
+      },
+      "copyrights": "Dữ liệu bản đồ ©2018 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "3,7 km",
+            "value": 3715
+          },
+          "duration": {
+            "text": "15 phút",
+            "value": 874
+          },
+          "end_address": "Đê la Thành, Đống Đa, Hà Nội, Việt Nam",
+          "end_location": {
+            "lat": 21.0148224,
+            "lng": 105.8341794
+          },
+          "start_address": "Láng Hạ, Đống Đa, Hà Nội, Việt Nam",
+          "start_location": {
+            "lat": 21.0153452,
+            "lng": 105.8128666
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0,3 km",
+                "value": 254
+              },
+              "duration": {
+                "text": "1 phút",
+                "value": 85
+              },
+              "end_location": {
+                "lat": 21.0165389,
+                "lng": 105.8107787
+              },
+              "html_instructions": "Đi về hướng <b>Tây Bắc</b> lên <b>Hoàng Ngọc Phách</b> về phía <b>Ngõ 5 Hoàng Ngọc Phách</b><div style=\"font-size:0.9em\">Băng qua Alvin Baby Shop (ở phía bên trái)</div>",
+              "polyline": {
+                "points": "}pg_CmqydSS`@S`@EFKVi@nAO`@g@bAIPEFWh@i@bA"
+              },
+              "start_location": {
+                "lat": 21.0153452,
+                "lng": 105.8128666
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,2 km",
+                "value": 211
+              },
+              "duration": {
+                "text": "1 phút",
+                "value": 72
+              },
+              "end_location": {
+                "lat": 21.0181558,
+                "lng": 105.8118224
+              },
+              "html_instructions": "Rẽ <b>phải</b> tại Kooloff- Matcha Caffe vào <b>Nguyên Hồng</b><div style=\"font-size:0.9em\">Băng qua Ngân Hàng Tmcp Dầu Khí Toàn Cầu (Gpbank) (ở phía bên phải)</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "kxg_CkdydSy@s@gAg@k@Uy@_@ECe@Yo@_@"
+              },
+              "start_location": {
+                "lat": 21.0165389,
+                "lng": 105.8107787
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,4 km",
+                "value": 358
+              },
+              "duration": {
+                "text": "1 phút",
+                "value": 86
+              },
+              "end_location": {
+                "lat": 21.0166307,
+                "lng": 105.814858
+              },
+              "html_instructions": "Rẽ <b>phải</b> tại Quán Chân Gà Nướng Tanka vào <b>Huỳnh Thúc Kháng</b><div style=\"font-size:0.9em\">Băng qua Quán Bia Hơi Trang Bống (ở phía bên phải)</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "obh_C{jydSL[L[t@qBHUd@cAZ{@Pg@HS|@{Bx@gB"
+              },
+              "start_location": {
+                "lat": 21.0181558,
+                "lng": 105.8118224
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,9 km",
+                "value": 936
+              },
+              "duration": {
+                "text": "3 phút",
+                "value": 170
+              },
+              "end_location": {
+                "lat": 21.0233744,
+                "lng": 105.8198981
+              },
+              "html_instructions": "Rẽ <b>trái</b> tại Công Ty Cp Vinapower vào <b>Láng Hạ</b><div style=\"font-size:0.9em\">Băng qua Công Ty Cổ Phần Năng Lượng (ở phía bên trái)</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "}xg_C{}ydSDILYs@a@GCqC}Ai@[s@e@k@a@iAu@o@c@uBwAKG{@k@iAq@{AeAqCkBgAq@iAu@w@g@sCeBq@c@"
+              },
+              "start_location": {
+                "lat": 21.0166307,
+                "lng": 105.814858
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,7 km",
+                "value": 658
+              },
+              "duration": {
+                "text": "3 phút",
+                "value": 173
+              },
+              "end_location": {
+                "lat": 21.0212135,
+                "lng": 105.8257629
+              },
+              "html_instructions": "Rẽ <b>phải</b> tại Cửa Hàng Kim Khí Lý Huệ vào <b>Đường La Thành</b><div style=\"font-size:0.9em\">Băng qua Công Ty Cp Đầu Tư Phát Triển Sao Đỏ (ở phía bên trái)</div>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "aci_Ck}zdSD[BU`@mDDWNc@XsBNw@BK\\_AH[b@yATq@p@qBFW`@_AL[t@mBXu@LYTs@"
+              },
+              "start_location": {
+                "lat": 21.0233744,
+                "lng": 105.8198981
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "42 m",
+                "value": 42
+              },
+              "duration": {
+                "text": "1 phút",
+                "value": 15
+              },
+              "end_location": {
+                "lat": 21.0208687,
+                "lng": 105.825596
+              },
+              "html_instructions": "Rẽ <b>phải</b> tại ĐIỆN TỬ NGỌC QUÝ vào <b>Phố Hoàng Cầu</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "quh_C_b|dSbA^"
+              },
+              "start_location": {
+                "lat": 21.0212135,
+                "lng": 105.8257629
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,5 km",
+                "value": 529
+              },
+              "duration": {
+                "text": "2 phút",
+                "value": 116
+              },
+              "end_location": {
+                "lat": 21.0181521,
+                "lng": 105.8295416
+              },
+              "html_instructions": "Rẽ <b>trái</b> tại Thế gới gia dụng vào <b>Ô Chợ Dừa</b><div style=\"font-size:0.9em\">Băng qua Quán bia Hà Nội (ở phía bên phải)</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "msh_C_a|dS^NNe@dCcGvAuCpAsChAgBVW|AoA"
+              },
+              "start_location": {
+                "lat": 21.0208687,
+                "lng": 105.825596
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,6 km",
+                "value": 640
+              },
+              "duration": {
+                "text": "2 phút",
+                "value": 120
+              },
+              "end_location": {
+                "lat": 21.0142161,
+                "lng": 105.8340038
+              },
+              "html_instructions": "Tiếp tục vào <b>Xã Đàn</b><div style=\"font-size:0.9em\">Băng qua Cửa Hàng Chụp Ảnh Linh Sâm (ở phía bên phải)</div>",
+              "polyline": {
+                "points": "mbh_Csy|dSTSp@o@x@gBt@iAZe@pAcBlBgCp@o@pDqDxBqB^_@"
+              },
+              "start_location": {
+                "lat": 21.0181521,
+                "lng": 105.8295416
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "60 m",
+                "value": 60
+              },
+              "duration": {
+                "text": "1 phút",
+                "value": 28
+              },
+              "end_location": {
+                "lat": 21.0146455,
+                "lng": 105.8343523
+              },
+              "html_instructions": "Rẽ <b>trái</b> tại Công Ty Tnhh Luxxx Việt Nam vào <b>Ngõ 360 Xã Đàn</b><div style=\"font-size:0.9em\">Băng qua Hẻm Quán - 360 Xã Đàn (ở phía bên phải)</div>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "{ig_Cou}dSYS{@q@"
+              },
+              "start_location": {
+                "lat": 21.0142161,
+                "lng": 105.8340038
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "27 m",
+                "value": 27
+              },
+              "duration": {
+                "text": "1 phút",
+                "value": 9
+              },
+              "end_location": {
+                "lat": 21.0148224,
+                "lng": 105.8341794
+              },
+              "html_instructions": "Rẽ <b>trái</b> tại CÔNG TY CỔ PHẦN XÂY DỰNG CÔNG NGHỆ HÀ Nội vào <b>Đê la Thành</b>",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "qlg_Cuw}dSa@`@"
+              },
+              "start_location": {
+                "lat": 21.0146455,
+                "lng": 105.8343523
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "}pg_CmqydSy@bBy@pBq@tA]p@i@bAy@s@sB}@y@_@k@]o@_@L[bAmCn@yAtBsF~@qBLYs@a@yCaB}AaA{GsEgAs@eDwB{I{FeEiCHq@f@eENc@XsBRcAf@{ArBuG~B_Gb@mAbBn@tCiHhDiHhAgBVWrBcBp@o@x@gBpAoB~DkFbFaFxCqCuAeAa@`@"
+      },
+      "summary": "Láng Hạ",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

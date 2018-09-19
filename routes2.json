@@ -1,0 +1,157 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJp9FTA32rNTERGUudesenghs",
+      "types": ["route"]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJFaiFQ56sNTER3zWK2aU8ZR4",
+      "types": ["route"]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 21.0166307,
+          "lng": 105.8197586
+        },
+        "southwest": {
+          "lat": 21.0047976,
+          "lng": 105.8038144
+        }
+      },
+      "copyrights": "Dữ liệu bản đồ ©2018 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "2,4 km",
+            "value": 2412
+          },
+          "duration": {
+            "text": "7 phút",
+            "value": 442
+          },
+          "end_address": "Đường Lê Văn Lương, Hà Nội, Việt Nam",
+          "end_location": {
+            "lat": 21.0047976,
+            "lng": 105.8038144
+          },
+          "start_address": "Thái Hà, Đống Đa, Hà Nội, Việt Nam",
+          "start_location": {
+            "lat": 21.0131653,
+            "lng": 105.8197586
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0,6 km",
+                "value": 616
+              },
+              "duration": {
+                "text": "3 phút",
+                "value": 154
+              },
+              "end_location": {
+                "lat": 21.0165256,
+                "lng": 105.815038
+              },
+              "html_instructions": "Đi về hướng \u003cb\u003eTây Bắc\u003c/b\u003e lên \u003cb\u003eThái Hà\u003c/b\u003e về phía \u003cb\u003eNgõ 131 - Thái Hà\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Ngân hàng SCB CN Hà Nội (ở phía bên phải)\u003c/div\u003e",
+              "polyline": {
+                "points": "icg_Co|zdS_@h@_@l@_AtAY`@U\\_ApA{@xAiBrCc@p@a@p@w@xAY^GHg@x@aA~A"
+              },
+              "start_location": {
+                "lat": 21.0131653,
+                "lng": 105.8197586
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,5 km",
+                "value": 546
+              },
+              "duration": {
+                "text": "2 phút",
+                "value": 101
+              },
+              "end_location": {
+                "lat": 21.0125995,
+                "lng": 105.8122551
+              },
+              "html_instructions": "Rẽ \u003cb\u003etrái\u003c/b\u003e vào \u003cb\u003eLáng Hạ\u003c/b\u003e",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "ixg_C__zdSMXEHz@d@B@tAz@rAp@XJB@~A`AhE`CVNpBhAhBdA"
+              },
+              "start_location": {
+                "lat": 21.0165256,
+                "lng": 105.815038
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,5 km",
+                "value": 526
+              },
+              "duration": {
+                "text": "1 phút",
+                "value": 66
+              },
+              "end_location": {
+                "lat": 21.0087686,
+                "lng": 105.8093303
+              },
+              "html_instructions": "Chếch sang \u003cb\u003etrái\u003c/b\u003e vào \u003cb\u003eCầu vượt Láng Hạ - Lê Văn Lương\u003c/b\u003e",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "w_g_CsmydSVHVFdBnAfBpAVPVPh@`@h@`@vGhElA~@Tb@"
+              },
+              "start_location": {
+                "lat": 21.0125995,
+                "lng": 105.8122551
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,7 km",
+                "value": 724
+              },
+              "duration": {
+                "text": "2 phút",
+                "value": 121
+              },
+              "end_location": {
+                "lat": 21.0047976,
+                "lng": 105.8038144
+              },
+              "html_instructions": "Chếch sang \u003cb\u003etrái\u003c/b\u003e vào \u003cb\u003eĐường Lê Văn Lương\u003c/b\u003e",
+              "maneuver": "turn-slight-left",
+              "polyline": {
+                "points": "ygf_Ci{xdSPL@?BB@@B@HJPTn@~@Zj@hAhB@BpB`Dr@hANXPXx@nAjB~CxA~BNTnBvC"
+              },
+              "start_location": {
+                "lat": 21.0087686,
+                "lng": 105.8093303
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "icg_Co|zdSyCnEuAnBeDlFeAbBw@xAY^o@bAoAxBEHz@d@xA|@lB|@bBbA|L`Hn@PlE`DbCfBvGhElA~@Tb@PLDBDBZ`@jAjBpFxIfEbHhBtCnBvC"
+      },
+      "summary": "Thái Hà và Đường Lê Văn Lương",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}

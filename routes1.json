@@ -1,0 +1,205 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJs9IFIXCrNTERlaie4ZnC20w",
+      "types": ["route"]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJp9FTA32rNTERGUudesenghs",
+      "types": ["route"]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 21.0208687,
+          "lng": 105.8343523
+        },
+        "southwest": {
+          "lat": 21.0131653,
+          "lng": 105.8187168
+        }
+      },
+      "copyrights": "Dữ liệu bản đồ ©2018 Google",
+      "legs": [
+        {
+          "distance": {
+            "text": "2,5 km",
+            "value": 2493
+          },
+          "duration": {
+            "text": "8 phút",
+            "value": 487
+          },
+          "end_address": "Thái Hà, Đống Đa, Hà Nội, Việt Nam",
+          "end_location": {
+            "lat": 21.0131653,
+            "lng": 105.8197586
+          },
+          "start_address": "Đê la Thành, Đống Đa, Hà Nội, Việt Nam",
+          "start_location": {
+            "lat": 21.0148224,
+            "lng": 105.8341794
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "27 m",
+                "value": 27
+              },
+              "duration": {
+                "text": "1 phút",
+                "value": 7
+              },
+              "end_location": {
+                "lat": 21.0146455,
+                "lng": 105.8343523
+              },
+              "html_instructions": "Đi về hướng \u003cb\u003eĐông Nam\u003c/b\u003e lên \u003cb\u003eĐê la Thành\u003c/b\u003e về phía \u003cb\u003eNgõ 360 Xã Đàn\u003c/b\u003e",
+              "polyline": {
+                "points": "smg_Csv}dS`@a@"
+              },
+              "start_location": {
+                "lat": 21.0148224,
+                "lng": 105.8341794
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "42 m",
+                "value": 42
+              },
+              "duration": {
+                "text": "1 phút",
+                "value": 23
+              },
+              "end_location": {
+                "lat": 21.0143479,
+                "lng": 105.8340984
+              },
+              "html_instructions": "Rẽ \u003cb\u003ephải\u003c/b\u003e tại đường giao nhau thứ 1 vào \u003cb\u003eNgõ 360 Xã Đàn\u003c/b\u003e",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "qlg_Cuw}dSz@p@"
+              },
+              "start_location": {
+                "lat": 21.0146455,
+                "lng": 105.8343523
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,6 km",
+                "value": 628
+              },
+              "duration": {
+                "text": "2 phút",
+                "value": 107
+              },
+              "end_location": {
+                "lat": 21.0183026,
+                "lng": 105.8297992
+              },
+              "html_instructions": "Rẽ \u003cb\u003ephải\u003c/b\u003e tại đường giao nhau thứ 1 vào \u003cb\u003eXã Đàn\u003c/b\u003e",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "ujg_Ccv}dSmHtGURKJWVYZcBvBg@p@s@~@Y\\CDuDbF"
+              },
+              "start_location": {
+                "lat": 21.0143479,
+                "lng": 105.8340984
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,5 km",
+                "value": 503
+              },
+              "duration": {
+                "text": "2 phút",
+                "value": 109
+              },
+              "end_location": {
+                "lat": 21.0207914,
+                "lng": 105.8257852
+              },
+              "html_instructions": "Đi thẳng vào \u003cb\u003eÔ Chợ Dừa\u003c/b\u003e",
+              "maneuver": "straight",
+              "polyline": {
+                "points": "kch_Cg{|dSSX_@\\i@t@QTg@n@m@v@_B`E}@pBEHgCvF"
+              },
+              "start_location": {
+                "lat": 21.0183026,
+                "lng": 105.8297992
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "1,2 km",
+                "value": 1155
+              },
+              "duration": {
+                "text": "3 phút",
+                "value": 201
+              },
+              "end_location": {
+                "lat": 21.0139409,
+                "lng": 105.8187168
+              },
+              "html_instructions": "Rẽ \u003cb\u003etrái\u003c/b\u003e vào \u003cb\u003ePhố Hoàng Cầu\u003c/b\u003e",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "}rh_Ceb|dSOd@^ND@pCpApAd@DBt@XJFxCjAD@hAf@bCdAf@Rv@\\VNNNHJDFFNDTBP?T@`@?zF@Z@JJXHJ@Bp@v@z@v@jAlA`D|C`At@d@b@\\X"
+              },
+              "start_location": {
+                "lat": 21.0207914,
+                "lng": 105.8257852
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0,1 km",
+                "value": 138
+              },
+              "duration": {
+                "text": "1 phút",
+                "value": 40
+              },
+              "end_location": {
+                "lat": 21.0131653,
+                "lng": 105.8197586
+              },
+              "html_instructions": "Rẽ \u003cb\u003etrái\u003c/b\u003e sau Phố Mì Cay Seoul (ở bên phải)\u003cdiv style=\"font-size:0.9em\"\u003eBăng qua Ngân hàng SCB CN Hà Nội (ở phía bên trái)\u003c/div\u003e",
+              "maneuver": "turn-left",
+              "polyline": {
+                "points": "chg_C_vzdSXa@~@uA^m@^i@"
+              },
+              "start_location": {
+                "lat": 21.0139409,
+                "lng": 105.8187168
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "smg_Csv}dS`@a@z@p@cIhHc@b@}BrCyBtCiE|F_@\\i@t@y@dAm@v@_B`EcAzBgCvFOd@d@PpCpApAd@z@\\dDrAzFbCnAl@XZLVHf@@v@@vGLd@JNlBnBlFjFfBxA\\XXa@~AcC^i@"
+      },
+      "summary": "Xã Đàn và Phố Hoàng Cầu",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
