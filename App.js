@@ -225,7 +225,6 @@ export default class App extends Component<Props> {
       <View style={styles.container}>
         <MapView
           ref={this.mapRef}
-          onLayout={() => this.mapRef.current.fitToCoordinates()}
           style={styles.container}
           provider="google"
           region={{
